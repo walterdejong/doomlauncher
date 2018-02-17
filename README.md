@@ -9,6 +9,9 @@ selector, and then you can launch the game.
 Please accept this as my gift to the DOOM community.
 
 
+![screenshot](/devdata/screenshot.png?raw=true "screenshot")
+
+
 Requirements
 ------------
 * GZDoom, ZDoom, or Zandronum (not tested)
@@ -26,5 +29,5 @@ This is FREE SOFTWARE with NO WARRANTY and is distributed under terms
 described in the BSD 2-clause license. See also LICENSE.txt and
 https://opensource.org/licenses/BSD-2-Clause
 
-Copyright 2018 Walter de Jong <walter@heiho.net>
+_Copyright 2018 Walter de Jong <walter@heiho.net>_
 
