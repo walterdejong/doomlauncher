@@ -1,0 +1,6 @@
+.vs
+.vs/*
+doomlauncher/bin
+doomlauncher/bin/*
+doomlauncher/obj
+doomlauncher/obj/*
